@@ -1,6 +1,6 @@
 # UmrechnungsApp
 
-Diese Android-App (API-Level 28) rechnet:
+Diese Android-App (API-Level 28 für Android 9) rechnet:
 - Flächen in Fußballfelder um
 - Alter in Minuten
 - Geldbetrag in Zeit (Million vs. Milliarde)
