@@ -14,6 +14,3 @@ Die APK findest du im APK-Branch
 
 ## Autorin
 Souzan Katmawi Sabbagh
-
-##P.S.
-Bitte ignoriere skatsab-patch-1 Branch 
